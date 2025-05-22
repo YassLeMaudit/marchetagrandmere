@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-python-multipart
-transformers
-torch
-python-dotenv
-mistralai== 0.4.2
-gTTS
-websocket-client
